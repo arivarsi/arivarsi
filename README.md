@@ -1,6 +1,6 @@
 
 
-Hi 👋 My name is Varsi. Everswick Dambaza if you are a government official.
+Hi 👋 My name is Varsi.
 ===============================
 
 Software Engineer
