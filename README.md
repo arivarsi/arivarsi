@@ -6,14 +6,15 @@ Hi 👋 My name is Varsi.
 Software Engineer
 ------------------
 
-I am a  Lead team  participant  who is equiped with strong  Software Development, Design,  Analysis and  Planning skills adhering to best practices and standards.
-I have an understanding of intepreting busness rules , Service level agreements  to bring quality compliant software.
-I have DotNet based  Full Stack Software Engineering experience that  expands into cloud infrastructure management. I also have Cloud platforms and DevOps Software Engineering practical experience . 
+I am a  Lead team  participant  who is equipped with strong  Software Development, Design,  Analysis and  Planning skills adhering to best practices and standards.
+I have an understanding of interpreting business rules , Service level agreements  to bring quality compliant software.
+I have Dotnet based  Fullstack Software Engineering experience that  expands into cloud infrastructure management. 
+I also have cloud platforms and DevOps Software Engineering practical experience . 
 I have experience  from the Capital Markets, Banking Sector and Supply Chain Services industries.
 
 ## More About Me
 * 🌍  I'm based in Harare, Zimbabwe.
-* 🖥️  I am a dot net engineer so you can ask for invite to see more what I do in [Azure DevOps](https://devops.azure.com)
+* 🖥️  I am a dot net engineer, so you can ask for invite to see more what I do in [Azure DevOps](https://devops.azure.com)
 * ✉️ You can contact me at varsi@mukomavarsi.com.
 * [Mukoma Varsi](http://mukomavarsi.com/) is my home.
 * 🧠  I'm currently learning Flutter and expanding on Microservices approach to system architecture design.
@@ -47,7 +48,8 @@ I have experience  from the Capital Markets, Banking Sector and Supply Chain Ser
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
 <a href="https://www.linkedin.com/in/everswick-dambaza/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-<a href="https://stackoverflow.com/users/12661702/everswick-varsi-dambaza" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> </a></p>
+<a href="https://stackoverflow.com/users/12661702/everswick-varsi-dambaza" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> </p>
 ### Badges
 
 <b>My GitHub Stats</b>
