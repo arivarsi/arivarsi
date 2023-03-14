@@ -6,7 +6,7 @@ Hi 👋 My name is Varsi.
 Software Engineer
 ------------------
 
-I am a  Lead team  participant  who is equipped with strong  Software Development, Design,  Analysis and  Planning skills adhering to best practices and standards.
+I am a Team Lead team who is equipped with strong  Software Development, Design,  Analysis and  Planning skills adhering to best practices and standards.
 I have an understanding of interpreting business rules , Service level agreements  to bring quality compliant software.
 I have Dotnet based  Fullstack Software Engineering experience that  expands into cloud infrastructure management. 
 I also have cloud platforms and DevOps Software Engineering practical experience . 
