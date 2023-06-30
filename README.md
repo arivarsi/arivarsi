@@ -17,6 +17,7 @@ I have experience  from the Retail, Capital Markets, Banking Sector and Supply C
 * 🖥️  I am a dot net engineer, so you can ask for invite to see more what I do in [Azure DevOps](https://devops.azure.com)
 * ✉️ You can contact me at varsi@mukomavarsi.com.
 * [Mukoma Varsi](http://mukomavarsi.com/) is my home.
+* You can also verify [who i am here](credly.com/users/everswick-dambaza/badges)
 * 🧠  I'm currently expanding on cloud platforms and the Microservices approach to system architecture design.
 * 🤝  I'm  open to collaborating on projects that are funded, I could learn and improve my skills.
 
